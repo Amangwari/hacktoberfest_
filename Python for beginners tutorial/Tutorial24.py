@@ -9,3 +9,4 @@ f = open("Aman5.txt")
 print(f.readlines())
 # print(f.readline())
 
+f.close()
