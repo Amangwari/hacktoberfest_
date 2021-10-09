@@ -8,7 +8,7 @@ while(True):
     print(i+1, end=" ")
     if(i==44):
         break
-    i = i + 2
+    i = i + 1
 
 
 print("\n")
