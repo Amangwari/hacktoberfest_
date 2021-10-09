@@ -16,7 +16,7 @@ print(s)
 
 #To remove element from set
 s.remove(3)
-print(r)
+print(s)
 
 
 #Union
