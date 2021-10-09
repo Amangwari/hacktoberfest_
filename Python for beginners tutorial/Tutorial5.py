@@ -68,7 +68,7 @@ print(tp)
 a = 1
 b = 8
 temp = a
-a = c
+a = b
 b = temp
 print(a,b)
 
